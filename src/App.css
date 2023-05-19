@@ -1,1 +1,22 @@
-/*# sourceMappingURL=App.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
+* {
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 16px;
+}
+
+.main-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-image: url("./images/background1_edited.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.main-container h1 {
+  font-size: 5em;
+  color: #ffffff;
+}/*# sourceMappingURL=App.css.map */

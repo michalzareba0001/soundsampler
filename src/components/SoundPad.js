@@ -1,4 +1,5 @@
 import React from 'react';
+import './SoundPad.css'
 
 const SoundPad = ({ sound1Url,
     sound2Url,
