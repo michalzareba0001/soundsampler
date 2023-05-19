@@ -33,31 +33,31 @@ const SoundPad = ({ sound1Url,
 
   return (
     <div className="sound-pad">
-      <button className='sound-button' onClick={() => handlePlay(sound1Url)}>Sound 1</button>
-      <button className='sound-button' onClick={() => handlePlay(sound2Url)}>Sound 2</button>
-      <button className='sound-button' onClick={() => handlePlay(sound3Url)}>Sound 3</button>
-      <button className='sound-button' onClick={() => handlePlay(sound4Url)}>Sound 4</button>
-      <button className='sound-button' onClick={() => handlePlay(sound5Url)}>Sound 5</button>
-      <button className='sound-button' onClick={() => handlePlay(sound6Url)}>Sound 6</button>
-      <button className='sound-button' onClick={() => handlePlay(sound7Url)}>Sound 7</button>
-      <button className='sound-button' onClick={() => handlePlay(sound8Url)}>Sound 8</button>
-      <button className='sound-button' onClick={() => handlePlay(sound9Url)}>Sound 9</button>
-      <button className='sound-button' onClick={() => handlePlay(sound10Url)}>Sound 10</button>
-      <button className='sound-button' onClick={() => handlePlay(sound11Url)}>Sound 11</button>
-      <button className='sound-button' onClick={() => handlePlay(sound12Url)}>Sound 12</button>
-      <button className='sound-button' onClick={() => handlePlay(sound13Url)}>Sound 13</button>
-      <button className='sound-button' onClick={() => handlePlay(sound14Url)}>Sound 14</button>
-      <button className='sound-button' onClick={() => handlePlay(sound15Url)}>Sound 15</button>
-      <button className='sound-button' onClick={() => handlePlay(sound16Url)}>Sound 16</button>
-      <button className='sound-button' onClick={() => handlePlay(sound17Url)}>Sound 17</button>
-      <button className='sound-button' onClick={() => handlePlay(sound18Url)}>Sound 18</button>
-      <button className='sound-button' onClick={() => handlePlay(sound19Url)}>Sound 19</button>
-      <button className='sound-button' onClick={() => handlePlay(sound20Url)}>Sound 20</button>
-      <button className='sound-button' onClick={() => handlePlay(sound21Url)}>Sound 21</button>
-      <button className='sound-button' onClick={() => handlePlay(sound22Url)}>Sound 22</button>
-      <button className='sound-button' onClick={() => handlePlay(sound23Url)}>Sound 23</button>
-      <button className='sound-button' onClick={() => handlePlay(sound24Url)}>Sound 24</button>
-      <button className='sound-button' onClick={() => handlePlay(sound25Url)}>Sound 25</button>
+      <button className='sound-button' onClick={() => handlePlay(sound1Url)}>1</button>
+      <button className='sound-button' onClick={() => handlePlay(sound2Url)}>2</button>
+      <button className='sound-button' onClick={() => handlePlay(sound3Url)}>3</button>
+      <button className='sound-button' onClick={() => handlePlay(sound4Url)}>4</button>
+      <button className='sound-button' onClick={() => handlePlay(sound5Url)}>5</button>
+      <button className='sound-button' onClick={() => handlePlay(sound6Url)}>6</button>
+      <button className='sound-button' onClick={() => handlePlay(sound7Url)}>7</button>
+      <button className='sound-button' onClick={() => handlePlay(sound8Url)}>8</button>
+      <button className='sound-button' onClick={() => handlePlay(sound9Url)}>9</button>
+      <button className='sound-button' onClick={() => handlePlay(sound10Url)}>10</button>
+      <button className='sound-button' onClick={() => handlePlay(sound11Url)}>11</button>
+      <button className='sound-button' onClick={() => handlePlay(sound12Url)}>12</button>
+      <button className='sound-button' onClick={() => handlePlay(sound13Url)}>13</button>
+      <button className='sound-button' onClick={() => handlePlay(sound14Url)}>14</button>
+      <button className='sound-button' onClick={() => handlePlay(sound15Url)}>15</button>
+      <button className='sound-button' onClick={() => handlePlay(sound16Url)}>16</button>
+      <button className='sound-button' onClick={() => handlePlay(sound17Url)}>17</button>
+      <button className='sound-button' onClick={() => handlePlay(sound18Url)}>18</button>
+      <button className='sound-button' onClick={() => handlePlay(sound19Url)}>19</button>
+      <button className='sound-button' onClick={() => handlePlay(sound20Url)}>20</button>
+      <button className='sound-button' onClick={() => handlePlay(sound21Url)}>21</button>
+      <button className='sound-button' onClick={() => handlePlay(sound22Url)}>22</button>
+      <button className='sound-button' onClick={() => handlePlay(sound23Url)}>23</button>
+      <button className='sound-button' onClick={() => handlePlay(sound24Url)}>24</button>
+      <button className='sound-button' onClick={() => handlePlay(sound25Url)}>25</button>
       
     </div>
   );

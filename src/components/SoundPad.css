@@ -7,6 +7,7 @@
   flex-direction: row;
   width: 60%;
   height: 80%;
+  margin-bottom: 3%;
 }
 .sound-pad .sound-button {
   width: 15%;
@@ -15,11 +16,16 @@
   border: none;
   background-color: rgba(240, 255, 0, 0.5803921569);
   box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.4392156863);
+  font-size: 2rem;
+  color: #ffffff;
+  transition: all 500ms;
 }
 .sound-pad .sound-button:hover {
   background-color: rgba(0, 136, 17, 0.9490196078);
+  color: #000000;
   cursor: pointer;
 }
 .sound-pad .sound-button:active {
   background-color: rgba(144, 0, 0, 0.5843137255);
+  color: #990000;
 }/*# sourceMappingURL=SoundPad.css.map */

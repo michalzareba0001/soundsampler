@@ -31,8 +31,8 @@ function App() {
   return (
     <div className="App">
       <div className="main-container">
-        <h1>Sampler 2.0</h1>
-        <p>This is App.js - main-container</p>
+        <h1>The Simpsons</h1>
+        <p>sound sampler</p>
         <SoundPad
           sound1Url={Sample0}
           sound2Url={Sample1}

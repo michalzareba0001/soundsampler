@@ -17,6 +17,11 @@
   background-position: center;
 }
 .main-container h1 {
-  font-size: 5em;
+  font-size: 5rem;
+  color: #ffffff;
+  max-height: 2rem;
+}
+.main-container p {
+  font-size: 2em;
   color: #ffffff;
 }/*# sourceMappingURL=App.css.map */
